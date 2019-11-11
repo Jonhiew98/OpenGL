@@ -1,0 +1,40 @@
+﻿  main.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\sdk\glfw-3.2.1.bin.win32\include\glfw\glfw3.h(98): note: see previous definition of 'APIENTRY'
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\vector.h(141): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\matrix.h(189): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\matrix.h(190): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(183): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(184): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(187): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(188): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(191): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(192): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(193): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(195): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(196): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(197): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\main.cpp(39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\main.cpp(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\main.cpp(44): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\main.cpp(45): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\main.cpp(46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  matrix.cpp
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\vector.h(141): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\matrix.h(189): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\matrix.h(190): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+main.obj : error LNK2019: unresolved external symbol glfwInit referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwSetWindowSizeCallback referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwSetInputMode referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwGetKey referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwSetCursorPosCallback referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwSwapInterval referenced in function main
+C:\SDK\glfw-3.2.1.bin.WIN32\lib-vc2015\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\user\Desktop\My files\Assignment Presentation\Degree Game\Sem 5\Graphic Programming\OpenGLDemo\x64\Debug\OpenGLDemo.exe : fatal error LNK1120: 12 unresolved externals

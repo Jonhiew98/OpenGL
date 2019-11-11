@@ -1,0 +1,29 @@
+﻿  main.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\sdk\glfw-3.2.1.bin.win32\include\glfw\glfw3.h(98): note: see previous definition of 'APIENTRY'
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\vector.h(141): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\matrix.h(189): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\matrix.h(190): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(189): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(190): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(193): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(194): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(197): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(198): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(199): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(201): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(202): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(203): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(222): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(223): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(226): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(227): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(211): warning C4101: 'z': unreferenced local variable
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(211): warning C4101: 'y': unreferenced local variable
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\triangle_demo.h(211): warning C4101: 'x': unreferenced local variable
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\main.cpp(39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\main.cpp(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\main.cpp(44): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\main.cpp(45): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\user\desktop\my files\assignment presentation\degree game\sem 5\graphic programming\opengldemo\opengldemo\main.cpp(46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  OpenGLDemo.vcxproj -> C:\Users\user\Desktop\My files\Assignment Presentation\Degree Game\Sem 5\Graphic Programming\OpenGLDemo\Debug\OpenGLDemo.exe
